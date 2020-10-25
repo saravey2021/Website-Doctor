@@ -1,0 +1,20 @@
+ul{
+    list-style-type:none; 
+    overflow:hidden;
+    background-color:crimson;
+    height: 40px;
+}
+ul li{
+   float:left;
+   
+}
+ul li a{
+    display:block;
+    text-decoration:none;
+    padding:10px;
+    color:white; 
+    margin-top: 7px;
+}
+ul  li:hover{
+    background-color: mediumblue;
+}
